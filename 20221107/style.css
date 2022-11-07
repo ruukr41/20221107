@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.h0910 h1{
+    font-size: 35px;
+    display: block;
+    text-align: center;   
+    padding: 50px;
+}
+.h0910 h2 {
+    display: block;
+    text-align: center; 
+    padding-bottom: 80px;
+}
+.h0910 img{
+    display: block;
+    margin: auto;
+    padding-bottom: 100px;
+}
+.h0910 ol {
+    display: block;
+    text-align: center;
+}
+.h0910 ol h4{
+    display: block;
+    text-align: center;
+}
+.h0910 h4{
+    margin-left:20px ;
+    display: block;
+    text-align: left; 
+    padding-bottom: 10px;    
+}
+.h0910 span{
+    margin-left:20px ;
+    display: block;
+    text-align: left; 
+    padding-bottom: 3px;    
+}
+.h0910 h5{
+    margin-bottom: 20px;;
+    margin-left:40px ;
+}
